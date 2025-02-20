@@ -1,5 +1,33 @@
 RENCANA WEB KASIR
 - membuat menu utama
+Visi:
+"Menjadi koperasi yang mandiri, berkembang, dan memberi manfaat bagi anggota serta masyarakat, dengan mengutamakan prinsip-prinsip koperasi yang adil, demokratis, dan berkelanjutan."
+
+Misi:
+Meningkatkan kesejahteraan anggota melalui pemberdayaan ekonomi dan sosial yang berbasis pada prinsip koperasi.
+Mengembangkan usaha yang produktif dan efisien untuk meningkatkan keuntungan serta menyejahterakan anggota.
+Menumbuhkan semangat gotong royong dalam mewujudkan ekonomi yang inklusif dan berkelanjutan.
+Memberikan pelayanan terbaik bagi anggota dan masyarakat, serta menjaga prinsip-prinsip demokrasi dalam pengambilan keputusan.
+Mengelola koperasi secara profesional dan transparan untuk mencapai keberlanjutan usaha yang berkelanjutan.
+
+
+Profil Koperasi
+1. Nama Koperasi:
+Koperasi Sejahtera Bersama
+
+2. Jenis Koperasi:
+Koperasi Simpan Pinjam (KSP) atau Koperasi Konsumen
+
+3. Sejarah Singkat:
+Koperasi Sejahtera Bersama didirikan pada tahun 2005 oleh sekelompok masyarakat yang memiliki tujuan untuk saling membantu dalam meningkatkan kesejahteraan ekonomi anggota melalui usaha simpan pinjam yang aman dan menguntungkan. Dalam perjalanan waktu, koperasi ini terus berkembang dan saat ini telah memiliki lebih dari 2.000 anggota yang tersebar di berbagai daerah.
+
+4. Tujuan Koperasi:
+Membantu anggota dalam mengatasi masalah ekonomi melalui pembiayaan yang lebih mudah dan terjangkau.
+Menyediakan sarana dan prasarana bagi anggota untuk melakukan kegiatan ekonomi secara efisien.
+Meningkatkan kualitas hidup anggota dengan memberi akses pada pelatihan dan informasi terkait pengelolaan keuangan dan usaha.
+
+Alamat Koperasi
+Jl. Raya Purwandaru - Bukateja, Dusun 5, Majasari, Kec. Purbalingga, Kabupaten Purbalingga, Jawa Tengah 53382
 - membuat menu login
 - membuat menu sign-up
 - membuat daftar harga barang
